@@ -3,4 +3,5 @@
 ---
 
 # Daily Notes
-[[Daily Notes/2022 06 23|2022 06 23]]
+- [[Daily Notes/2022 06 23|2022 06 23]]
+- [[Daily Notes/2022 06 22|2022 06 22]]
