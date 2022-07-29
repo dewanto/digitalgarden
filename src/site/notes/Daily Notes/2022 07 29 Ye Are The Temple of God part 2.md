@@ -18,14 +18,12 @@ THE FOUNDATION OF THE CHURCH
 
 
 1Co 10:4 And did all drink the same spiritual drink: for they drank of that spiritual
-Rock that followed them: and that Rock was Christ.
-Luk 6:48 He is like a man which built an house, and digged deep, and laid the
-foundation on a rock [Christ]: and when the flood arose, the stream beat vehemently
-upon that house, and could not shake it: for it was founded upon a rock [Christ].
+Rock that followed them: and <mark style="background: #6e935f;">that Rock</mark> was <mark style="background: #6e935f;">Christ</mark> .
+Luk 6:48 He is like a man which built <mark style="background: #6e935f;">an house</mark> , and digged deep, and laid <mark style="background: #6e935f;">the
+foundation</mark>  on a <mark style="background: #6e935f;">rock</mark> [Christ]: and when the flood arose, the stream beat vehemently
+upon that house, and could not shake it: for it was founded upon a <mark style="background: #6e935f;">rock</mark> [Christ].
 
 Rumah itu harus digali dalam dan menemukan BATU (kristus) dan diatasnya rumah didirikan
-
-
 
 
 ## [03:22: Mat 16:13](https://annotate.tv/watch/62e2fd601b01420009899ac8?annotationId=62e2fe961b01420009899ac9)
